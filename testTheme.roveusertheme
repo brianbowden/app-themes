@@ -1,10 +1,10 @@
 {
-  "backgroundColor": "#000000",
-  "historyBackgroundColor": "#163B56",
-  "widgetBackgroundColor": "#1B435F",
-  "proColor": "#5F79E0",
-  "primaryColor": "#5FDDE0",
-  "secondaryColor": "#65CAF0",
-  "primaryTextColor": "#ffffff",
-  "secondaryTextColor": "#A6C1C3"
+  "backgroundColor": "#FFFFEFF",
+  "historyBackgroundColor": "#FFFFEFF",
+  "widgetBackgroundColor": "#E53B51",
+  "proColor": "#EC6C20",
+  "primaryColor": "#3CB5B5",
+  "secondaryColor": "#A4D0C4",
+  "primaryTextColor": "#444444",
+  "secondaryTextColor": "#999999"
 }
