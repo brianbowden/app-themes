@@ -1,0 +1,11 @@
+{
+  "name": "metal",
+  "backgroundColor": "#222222",
+  "historyBackgroundColor": "#222222",
+  "primaryColor": "#CCCCCC",
+  "primaryTextColor": "#FFFFFF",
+  "proColor": "#BBBBBB",
+  "secondaryColor": "#888888",
+  "secondaryTextColor": "#BBBBBB",
+  "widgetBackgroundColor": "#333333"
+}
